@@ -427,6 +427,8 @@ textarea {
   }
   .home {
     grid-template-columns: 1fr;
+    justify-content: content: 
+    align-items: center;
     
   }
   .home-text {
