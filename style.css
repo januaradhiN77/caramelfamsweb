@@ -78,6 +78,7 @@ header {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
+  justify-content: center;
   background: var(--gatau1);
   gap: 9rem;
   text-align: center;
